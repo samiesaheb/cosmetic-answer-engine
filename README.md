@@ -65,7 +65,8 @@ python ingest.py
 
 uvicorn app:app --reload
 
-streamlit run streamlit_app.py```
+streamlit run streamlit_app.py
+```
 
 💬 Example Question
 What is panthenol used for?
